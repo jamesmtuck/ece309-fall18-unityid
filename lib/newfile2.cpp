@@ -12,4 +12,5 @@ class Human{
 public:
   int hair = 5;
   const char* string = "hello";
+  Human(){printf("shit");}
 }
