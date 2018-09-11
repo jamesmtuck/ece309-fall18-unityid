@@ -1,5 +1,5 @@
 //
-//  newfile1.cpp
+//  newfile2.cpp
 //  ECE309
 //
 //  Created by Christian Burke on 9/10/18.
@@ -8,9 +8,8 @@
 
 #include <stdio.h>
 
-int main()
-{
-    printf("%d",1);
-    return 0;
+class Human{
+public:
+  int hair = 5;
+  const char* string = "hello";
 }
-
