@@ -120,7 +120,7 @@ int main() {
   base.set(2, 67);
 
   char *str = (char *)base;
-  if (strcmp(str, "A C")) {
+  if (strcmp(str, "A C") == 0) {
     testPassCnt++;
   } else {
     testFailCnt++;
