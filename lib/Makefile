@@ -1,6 +1,6 @@
 
 # add files you create here
-OBJ = example.o IntArray_test.o
+OBJ = example.o
 
 all: libece309.a
 
