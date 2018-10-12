@@ -8,4 +8,4 @@ ECE 309
 * Created list object file
 * Added functions to link list homework file
 
-[![Build Status](https://travis-ci.org/jamesmtuck/ece309-fall18-unityid.svg?branch=master)](https://travis-ci.org/crburke3/ece309-fall18-crburke3)
+[![Build Status](https://travis-ci.org/jamesmtuck/ece309-fall18-unityid.svg?branch=master)](https://travis-ci.org/crburke3/Cburkes-ECE309-crburke3)
